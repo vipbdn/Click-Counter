@@ -1,0 +1,44 @@
+.app-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #f1f5f8;
+  height: 100vh;
+}
+
+.span {
+  font-weight: bold;
+  color: #c20a72;
+  font-size: 55px;
+}
+
+.main-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 700px;
+}
+
+.heading {
+  font-size: 55px;
+  font-family: 'Roboto';
+  color: #2d3a35;
+  text-align: center;
+}
+
+.des {
+  font-size: 25px;
+  color: #2d3a35;
+  font-family: 'Roboto';
+}
+
+.button {
+  background-color: #007bff;
+  color: white;
+  font-size: 15px;
+  padding: 10px;
+  border-width: 0px;
+  border-radius: 8px;
+}
